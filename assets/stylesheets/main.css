@@ -162,3 +162,9 @@ h1, h3, h4, h5, p {
 .logo {
   float: clear;
 }
+
+aside {
+	text-align: right;
+	margin: 50px 1.5%;
+	width: 30%;
+}
